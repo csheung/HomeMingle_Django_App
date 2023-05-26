@@ -22,20 +22,30 @@ git clone https://github.com/csheung/HomeMingle_Django_App.git
 
 3. Navigate into the cloned repository
 ```
-cd HomeMingle
+cd PUDDLE
 ```
 
-4. Install the requirements
+5. Activate the virtual environment
+```
+source env/bin/activate
+```
+
+6. Navigate into the program directory
+```
+cd homemingle
+```
+
+7. Install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-5. Run the Django server
+8. Run the Django server
 ```
 python manage.py runserver
 ```
 
-6. Now, open your browser and navigate to http://127.0.0.1:8000/ to see the application in action.
+9. Now, open your browser and navigate to http://127.0.0.1:8000/ to see the application in action.
 
 ### Screenshots
 ##### Django Admin Page
