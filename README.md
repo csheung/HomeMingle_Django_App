@@ -15,9 +15,7 @@ Follow these steps to run this project on your local machine:
 
 1. Clone the repository
 ```
-{
 git clone https://github.com/csheung/HomeMingle_Django_App.git
-}
 ```
 
 2. Change the cloned repository name to "**PUDDLE**"
